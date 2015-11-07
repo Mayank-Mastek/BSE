@@ -1,0 +1,26 @@
+/* Any CSS styles go here*/
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 7px;
+}
+hr{
+	margin-bottom: 18px;
+}
+    
+.serchInput{
+	padding: 15px 0px 6px 99px;
+}
+input,select{
+	height:25px;	
+	width: 188px;
+}
+.gridTable{
+	margin: 20px 0px 0px 20px;
+	width: 70%;
+}
+.headerRow{
+	background-color: moccasin;
+}
